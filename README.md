@@ -1,11 +1,14 @@
 <div align="center">
-  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=SEONG%20CHAN%20OH&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+  
+  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=SEONG%20CHAN%20OH&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62) 
+  ####  :wave: Welcome my github profile ! 
    <br/>
-  ####  :wave: Welcome my github profile !
-   <br/>
-   <br/>
+   
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yacci5513)](https://github.com/yacci5513/github-readme-stats)
+</div>
 <i>
 <details>
+  
 <summary>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="2%" /> 경험해본 것들
 </summary>
@@ -29,5 +32,3 @@
   <br/>
 </details>
 </i>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yacci5513)](https://github.com/yacci5513/github-readme-stats)
-</div>
