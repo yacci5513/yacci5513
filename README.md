@@ -2,6 +2,7 @@
   
   ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=SEONG%20CHAN%20OH&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62) 
   ####  :wave: Welcome my github profile ! 
+  ####   📞 E-mail: ckstjddh1@naver.com
    <br/>
 </div>
 <i>
@@ -10,7 +11,7 @@
 <summary>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="2%" /> 경험해본 것들
 </summary>
-   <br/>
+  <br/>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
