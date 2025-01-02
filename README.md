@@ -7,23 +7,6 @@
   
   <br/>
 </div>
-<details>
-  <summary>
-    <strong>학력 및 교육</strong>
-  </summary>
-  
-  #### 1. 대구대학교 기계공학과 학부 과정<br/>
-  - MATLAB, AUTOCAD, CATIA<br/>
-  #### 2. 영남대학교 정보통신공학과 학부 과정
-  - 야구팀관리 프로젝트: HTML, CSS, MY-SQL, PHP, Apache<br/>
-  - 스마트창문 프로젝트: Python, Raspberry Pi<br/>
-  #### 3. Python 기반 빅데이터 분석 교육 과정
-  - Python, Numpy, Pandas, Matplotlib<br/>
-  #### 4. 기업요구를 반영한 PHP 풀스택(프론트앤드+백앤드) 개발자 양성 과정
-  - TODOLIST 프로젝트: HTML, CSS, Maria DB, PHP, Apache<br/>
-  - 도서추천 프로젝트: HTML, CSS, JavaScript, Maria DB, PHP, Laravel, Ajax, MVC, Apache<br/>
-  - Notion, Jira, Slack, Github<br/>
-</details>
 <!-- <i>
   <details>
     <summary>
