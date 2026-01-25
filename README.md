@@ -1,9 +1,5 @@
 ### :wave: Welcome my github profile !
 
-- **이메일**: ckstjddh1@naver.com
-- **Blog**: https://lifehi.tistory.com
----
-
 ## 👨‍💻 소개
 
 - **Backend Developer**
