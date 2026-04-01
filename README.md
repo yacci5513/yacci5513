@@ -8,8 +8,8 @@
 
 <h2>🧑‍💻 About</h2>
 
-<p>AI와 자동화를 활용해 실서비스를 만들고 운영하는 백엔드 개발자입니다.<br/>
-GPT·Claude 기반 자동화 시스템을 직접 설계하고, Laravel/FastAPI + AWS 환경에서 서비스를 배포·운영한 경험이 있습니다.</p>
+<p>Backend developer who builds and operates real-world services using AI and automation.<br/>
+Designing GPT · Claude-powered automation systems, deploying services on Laravel / FastAPI + AWS.</p>
 
 <br/>
 
@@ -95,15 +95,6 @@ GPT·Claude 기반 자동화 시스템을 직접 설계하고, Laravel/FastAPI +
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux"/><br><sub>Linux</sub></td>
   </tr>
 </table>
-
-<br/>
-
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yacci5513&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yacci5513&layout=compact&hide_border=true&langs_count=8" height="160"/>
-</p>
 
 <br/>
 
