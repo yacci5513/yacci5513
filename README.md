@@ -1,6 +1,6 @@
 <![CDATA[<p align="center">
   <a href="https://github.com/yacci5513">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Backend+Developer;Laravel+%C2%B7+FastAPI+%C2%B7+AWS;Building+Things+That+Work" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=550&lines=Building+Things+That+Work;Automate+Everything;Ship+Fast%2C+Learn+Faster" alt="Typing SVG" />
   </a>
 </p>
 
@@ -8,16 +8,8 @@
 
 <h2>🧑‍💻 About</h2>
 
-<p>Laravel(Lumen) 기반 REST API 개발과 AWS 인프라 운영 경험이 있는 백엔드 개발자입니다.</p>
-
-<ul>
-  <li><strong>Laravel / Lumen</strong> REST API 서버 개발 및 운영</li>
-  <li><strong>Terraform / Docker</strong> 인프라 자동화</li>
-  <li><strong>AWS</strong> EC2 · ECS · ECR · Lambda · EventBridge 서비스 운영</li>
-  <li><strong>MQTT / Redis / MongoDB</strong> 실시간 데이터 처리</li>
-  <li>온프레미스 → <strong>AWS 마이그레이션</strong> 수행</li>
-  <li><strong>JIRA 스크럼</strong> 기반 팀 협업</li>
-</ul>
+<p>AI와 자동화를 활용해 실서비스를 만들고 운영하는 백엔드 개발자입니다.<br/>
+GPT·Claude 기반 자동화 시스템을 직접 설계하고, Laravel/FastAPI + AWS 환경에서 서비스를 배포·운영한 경험이 있습니다.</p>
 
 <br/>
 
@@ -109,16 +101,8 @@
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yacci5513&theme=default&hide_border=true" height="170" alt="streak stats"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yacci5513&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yacci5513&layout=compact&hide_border=true&langs_count=8" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yacci5513&theme=minimal&hide_border=true" width="90%" alt="activity graph"/>
 </p>
 
 <br/>
