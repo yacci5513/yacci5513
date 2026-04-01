@@ -1,56 +1,73 @@
-### :wave: Welcome my github profile !
+## Hi there :wave:
 
-## 👨‍💻 소개
-
-- **Backend Developer**
-- **Laravel(Lumen)** 기반 실무 REST API 서버 개발 경험
-- **Terraform / Docker** 를 이용한 인프라 자동화 경험
-- **MQTT / Redis / MongoDB** 를 활용한 실시간 데이터 처리 경험
-- **AWS EC2 / ECS / ECR** 기반 서비스 운영 경험
-- **EventBridge / Lambda** 을 통한 이벤트 기반 시스템 구성 경험
-- **온프레미스 서버 → AWS 마이그레이션** 경험
-- **JIRA 기반 스크럼(Sprint) 협업 경험 다수**
-- 온프레미스 기반 **CentOS 7 EOS 대응을 위한 서버 교체 경험 보유**
+백엔드 개발자입니다. Laravel/Python 기반 API 개발과 AWS 인프라 운영 경험이 있으며, 자동화와 실서비스 배포에 관심이 많습니다.
 
 ---
 
-## 🛠️ 사용 기술 스택
+## 경험 요약
 
-### 🧩 언어 및 프레임워크
-![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Lumen](https://img.shields.io/badge/lumen-E74430?style=for-the-badge&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+- **Laravel(Lumen)** 기반 REST API 서버 개발 및 운영
+- **Terraform / Docker** 를 활용한 인프라 자동화
+- **MQTT / Redis / MongoDB** 기반 실시간 데이터 처리
+- **AWS** (EC2, ECS, ECR, Lambda, EventBridge) 서비스 운영
+- **온프레미스 → AWS 마이그레이션** 수행
+- **CentOS 7 EOS 대응** 서버 교체
+- **JIRA 스크럼(Sprint)** 기반 팀 협업
 
-### 🧱 인프라 & DevOps
+---
+
+## 프로젝트
+
+### [Dev-Auto-Quiz](https://github.com/yacci5513/Dev-Auto-Quiz)
+> GPT-4 + OpenAI TTS 기반 퀴즈 영상 자동 생성 시스템
+
+- 28개 카테고리 한국어 퀴즈 자동 생성
+- YouTube 쇼츠 규격(1080x1920) 영상 렌더링 및 자동 업로드
+- ffmpeg 오디오-비디오 동기화, 매일 자동 스케줄링
+
+`JavaScript` `OpenAI API` `ffmpeg` `YouTube API`
+
+### [Dev-IT-News-Bot](https://github.com/yacci5513/Dev-IT-News-Bot)
+> IT 뉴스 크롤링 → GPT 요약 → 이메일 자동 발송
+
+- 4개 주요 IT 매체에서 뉴스 크롤링 (ZDNet, 디지털데일리, IT조선, 전자신문)
+- GPT-4o 기반 뉴스 요약 및 중복 제거
+- 이메일 자동 발송, 모듈별 개별 실행 가능
+
+`Python` `GPT-4o` `BeautifulSoup` `SMTP`
+
+### SmartLotto
+> AI 기반 로또 번호 분석 서비스 (실서비스 운영 중)
+
+- FastAPI 백엔드 + Next.js 프론트엔드
+- PostgreSQL DB, JWT 인증
+- AWS EC2 (서울 리전) 배포, GitHub Actions CI/CD
+- SSL 적용, 보안 미들웨어 구현
+
+`FastAPI` `Next.js` `PostgreSQL` `AWS EC2` `Docker` `GitHub Actions`
+
+---
+
+## 기술 스택
+
+### 언어 및 프레임워크
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+### 인프라 & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-F58536?style=for-the-badge&logo=amazon-ec2&logoColor=white)
-![ECS](https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazon-ecs&logoColor=white)
-![ECR](https://img.shields.io/badge/ECR-FF9900?style=for-the-badge&logo=amazon-ecr&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
-![EventBridge](https://img.shields.io/badge/EventBridge-FF4F00?style=for-the-badge&logo=aws&logoColor=white)
-![SecretManager](https://img.shields.io/badge/SecretManager-2E86C1?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### 🗃️ 데이터베이스 & 통신
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+### 데이터베이스 & 통신
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MQTT](https://img.shields.io/badge/mqtt-660066?style=for-the-badge&logo=raspberrypi&logoColor=white)
-
-### 🤝 Other Tools
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=agile&logoColor=white)
-![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Slack](https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-343541?style=for-the-badge&logo=Anthropic&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-5A5CFF?style=for-the-badge&logo=Cursor&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
