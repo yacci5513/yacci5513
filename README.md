@@ -8,8 +8,16 @@
 
 <h2>🧑‍💻 About</h2>
 
-<p>Backend developer who builds and operates real-world services using AI and automation.<br/>
-Designing GPT · Claude-powered automation systems, deploying services on Laravel / FastAPI + AWS.</p>
+<p>Backend developer who builds and operates real-world services using AI and automation.</p>
+
+<ul>
+  <li><strong>Laravel / Lumen</strong> REST API development & operations</li>
+  <li><strong>Terraform / Docker</strong> infrastructure automation</li>
+  <li><strong>AWS</strong> EC2 · ECS · ECR · Lambda · EventBridge</li>
+  <li><strong>MQTT / Redis / MongoDB</strong> real-time data processing</li>
+  <li>On-premise → <strong>AWS migration</strong></li>
+  <li><strong>JIRA Scrum</strong> based team collaboration</li>
+</ul>
 
 <br/>
 
