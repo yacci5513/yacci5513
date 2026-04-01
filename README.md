@@ -1,6 +1,6 @@
-<![CDATA[<p align="center">
+<p align="center">
   <a href="https://github.com/yacci5513">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=550&lines=Building+Things+That+Work;Automate+Everything;Ship+Fast%2C+Learn+Faster" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=3B82F6&amp;center=true&amp;vCenter=true&amp;width=550&amp;lines=Building+Things+That+Work;Automate+Everything;Ship+Fast%2C+Learn+Faster" alt="Typing SVG" />
   </a>
 </p>
 
@@ -11,7 +11,7 @@
 <p>Backend developer who builds and operates real-world services using AI and automation.</p>
 
 <ul>
-  <li><strong>Laravel / Lumen</strong> REST API development & operations</li>
+  <li><strong>Laravel / Lumen</strong> REST API development &amp; operations</li>
   <li><strong>Terraform / Docker</strong> infrastructure automation</li>
   <li><strong>AWS</strong> EC2 · ECS · ECR · Lambda · EventBridge</li>
   <li><strong>MQTT / Redis / MongoDB</strong> real-time data processing</li>
@@ -31,11 +31,11 @@
       <p>실서비스 운영 중 · <a href="https://smartlotto.kr">smartlotto.kr</a></p>
       <p>FastAPI + Next.js 풀스택. PostgreSQL, JWT 인증, GitHub Actions CI/CD, AWS EC2 배포.</p>
       <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white"/>
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&amp;logo=next.js&amp;logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white"/>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&amp;logo=amazonaws&amp;logoColor=white"/>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -43,10 +43,10 @@
       <p><strong>퀴즈 영상 자동 생성 시스템</strong></p>
       <p>GPT-4 + OpenAI TTS로 28개 카테고리 퀴즈 영상을 자동 생성하고 YouTube에 업로드.</p>
       <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-        <img src="https://img.shields.io/badge/ffmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white"/>
-        <img src="https://img.shields.io/badge/YouTube_API-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black"/>
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&amp;logo=openai&amp;logoColor=white"/>
+        <img src="https://img.shields.io/badge/ffmpeg-007808?style=flat-square&amp;logo=ffmpeg&amp;logoColor=white"/>
+        <img src="https://img.shields.io/badge/YouTube_API-FF0000?style=flat-square&amp;logo=youtube&amp;logoColor=white"/>
       </p>
     </td>
   </tr>
@@ -56,8 +56,8 @@
       <p><strong>IT 뉴스 자동 요약 봇</strong></p>
       <p>4개 주요 IT 매체에서 크롤링 → GPT-4o 요약 → 이메일 자동 발송.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white"/>
+        <img src="https://img.shields.io/badge/GPT--4o-412991?style=flat-square&amp;logo=openai&amp;logoColor=white"/>
         <img src="https://img.shields.io/badge/BeautifulSoup-333?style=flat-square"/>
       </p>
     </td>
@@ -66,9 +66,9 @@
       <p><strong>풀스택 웹 개발 학습</strong></p>
       <p>HTML/CSS/JS 기초 → PHP/Laravel → Vue.js → 풀스택 프로젝트까지 단계별 학습.</p>
       <p>
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&amp;logo=laravel&amp;logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&amp;logo=vue.js&amp;logoColor=white"/>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&amp;logo=php&amp;logoColor=white"/>
       </p>
     </td>
   </tr>
@@ -113,4 +113,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yacci5513/yacci5513/output/github-contribution-grid-snake.svg"/>
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yacci5513/yacci5513/output/github-contribution-grid-snake.svg"/>
 </picture>
-]]>
