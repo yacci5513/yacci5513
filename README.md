@@ -25,20 +25,7 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🎰 SmartLotto</h3>
-      <p><strong>AI 기반 로또 번호 분석 서비스</strong></p>
-      <p>실서비스 운영 중 · <a href="https://smartlotto.kr">smartlotto.kr</a></p>
-      <p>FastAPI + Next.js 풀스택. PostgreSQL, JWT 인증, GitHub Actions CI/CD, AWS EC2 배포.</p>
-      <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white"/>
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&amp;logo=next.js&amp;logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white"/>
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&amp;logo=amazonaws&amp;logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>🎬 <a href="https://github.com/yacci5513/Dev-Auto-Quiz">Dev-Auto-Quiz</a></h3>
       <p><strong>퀴즈 영상 자동 생성 시스템</strong></p>
       <p>GPT-4 + OpenAI TTS로 28개 카테고리 퀴즈 영상을 자동 생성하고 YouTube에 업로드.</p>
@@ -49,9 +36,7 @@
         <img src="https://img.shields.io/badge/YouTube_API-FF0000?style=flat-square&amp;logo=youtube&amp;logoColor=white"/>
       </p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>📰 <a href="https://github.com/yacci5513/Dev-IT-News-Bot">Dev-IT-News-Bot</a></h3>
       <p><strong>IT 뉴스 자동 요약 봇</strong></p>
       <p>4개 주요 IT 매체에서 크롤링 → GPT-4o 요약 → 이메일 자동 발송.</p>
@@ -61,7 +46,7 @@
         <img src="https://img.shields.io/badge/BeautifulSoup-333?style=flat-square"/>
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>📚 <a href="https://github.com/yacci5513/Study-Laravue">Study-Laravue</a></h3>
       <p><strong>풀스택 웹 개발 학습</strong></p>
       <p>HTML/CSS/JS 기초 → PHP/Laravel → Vue.js → 풀스택 프로젝트까지 단계별 학습.</p>
