@@ -2,7 +2,7 @@
 <p align="center"><i>Backend engineer · shipping services end-to-end with practical AI tooling</i></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1500&color=3B82F6&center=true&vCenter=true&width=620&lines=Backend+APIs+%C2%B7+AWS+infra+%C2%B7+full-stack+side+projects;A+few+years+in+%E2%80%94+wide+surface+area;Live+service+at+ytpick.app" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1500&color=3B82F6&center=true&vCenter=true&width=560&lines=Backend+%C2%B7+Infra+%C2%B7+AI+tooling;Wide+scope%2C+a+few+years+in;Live+at+ytpick.app" alt="Typing SVG" />
 </p>
 
 <br/>
