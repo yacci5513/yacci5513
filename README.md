@@ -9,7 +9,7 @@
 
 ## About
 
-A few years into a backend engineering career, with hands-on time across REST API development & operations, on-premise → AWS cloud migration, and infrastructure automation in a real production environment. Outside of work I ship full-stack side projects end-to-end — including a live web service (<a href="https://ytpick.app">ytpick.app</a>), a real-time scoreboard for streamer tournaments, and a quant trading pipeline that places real orders against the KIS API. I lean on AI tooling (Claude Code, OpenAI / Claude APIs) to keep the loop from idea to deploy short.
+A few years into a backend engineering career, with hands-on time across REST API development & operations, on-premise → AWS cloud migration, and infrastructure automation in a real production environment. Outside of work I ship full-stack side projects end-to-end — including a live web service (<a href="https://ytpick.app">ytpick.app</a>) and a quant trading pipeline that places real orders against the KIS API. I lean on AI tooling (Claude Code, OpenAI / Claude APIs) to keep the loop from idea to deploy short.
 
 <br/>
 
