@@ -27,19 +27,13 @@ A few years into a backend engineering career, with hands-on time across REST AP
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3>🎲 <a href="https://ytpick.app">ytpick</a></h3>
       <p><strong>YouTube comment lottery — live service</strong></p>
       <p>Live at ytpick.app. Cryptographic RNG, NDJSON streaming progress, incremental cache on refetch, capture-mode PNG export. Caddy + Docker.</p>
       <p><code>Next.js 16</code> <code>React 19</code> <code>Caddy</code> <code>Docker</code></p>
     </td>
-    <td width="33%" valign="top">
-      <h3>🎮 streamer-sheet</h3>
-      <p><strong>Real-time scoreboard + OBS overlay</strong></p>
-      <p>Socket.IO live sync. Round-by-round match flow, separate edit / overlay access codes, per-game custom stat fields.</p>
-      <p><code>Next.js</code> <code>Socket.IO</code> <code>Prisma</code></p>
-    </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3>📈 <a href="https://github.com/yacci5513/Quant">Quant</a></h3>
       <p><strong>Korean stock auto-trading pipeline</strong></p>
       <p>KOSPI 200 monthly momentum + MA-100 market filter backtest. Live order placement via KIS API. Telegram alerts. GitHub Actions auto-deploy to Lightsail.</p>
@@ -47,19 +41,18 @@ A few years into a backend engineering career, with hands-on time across REST AP
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3>🎬 <a href="https://github.com/yacci5513/auto-quiz">auto-quiz</a></h3>
       <p><strong>Automated quiz-video generator</strong></p>
       <p>GPT-4 + OpenAI TTS produce quiz videos across 28 categories, then auto-upload to YouTube. ffmpeg-driven render.</p>
       <p><code>JavaScript</code> <code>OpenAI</code> <code>ffmpeg</code></p>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3>📰 <a href="https://github.com/yacci5513/news-summarizer">news-summarizer</a></h3>
       <p><strong>IT news → GPT summary → email</strong></p>
       <p>Crawls four IT outlets, summarizes via GPT-4o, emails the digest on schedule.</p>
       <p><code>Python</code> <code>GPT-4o</code> <code>BeautifulSoup</code></p>
     </td>
-    <td width="33%" valign="top"></td>
   </tr>
 </table>
 
