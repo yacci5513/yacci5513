@@ -9,7 +9,7 @@
 
 ## About
 
-A few years into a backend engineering career, with hands-on time across REST API development & operations, on-premise → AWS cloud migration, and infrastructure automation in a real production environment. Outside of work I ship full-stack side projects end-to-end — including a live web service (<a href="https://ytpick.app">ytpick.app</a>), a real-time scoreboard for streamer tournaments, a Korean sports community platform, and a quant trading pipeline that places real orders against the KIS API. I lean on AI tooling (Claude Code, OpenAI / Claude APIs) to keep the loop from idea to deploy short.
+A few years into a backend engineering career, with hands-on time across REST API development & operations, on-premise → AWS cloud migration, and infrastructure automation in a real production environment. Outside of work I ship full-stack side projects end-to-end — including a live web service (<a href="https://ytpick.app">ytpick.app</a>), a real-time scoreboard for streamer tournaments, and a quant trading pipeline that places real orders against the KIS API. I lean on AI tooling (Claude Code, OpenAI / Claude APIs) to keep the loop from idea to deploy short.
 
 <br/>
 
@@ -34,25 +34,19 @@ A few years into a backend engineering career, with hands-on time across REST AP
       <p><code>Next.js 16</code> <code>React 19</code> <code>Caddy</code> <code>Docker</code></p>
     </td>
     <td width="33%" valign="top">
-      <h3>⚽ sports-community</h3>
-      <p><strong>Korean sports community + verified coach directory</strong></p>
-      <p>Four-channel feeds, KakaoTalk / Naver SSO, markdown comments, RSS 2.0, admin CSV export. Postgres-backed.</p>
-      <p><code>Next.js</code> <code>PostgreSQL</code> <code>Prisma</code> <code>Caddy</code></p>
-    </td>
-    <td width="33%" valign="top">
       <h3>🎮 streamer-sheet</h3>
       <p><strong>Real-time scoreboard + OBS overlay</strong></p>
       <p>Socket.IO live sync. Round-by-round match flow, separate edit / overlay access codes, per-game custom stat fields.</p>
       <p><code>Next.js</code> <code>Socket.IO</code> <code>Prisma</code></p>
     </td>
-  </tr>
-  <tr>
     <td width="33%" valign="top">
       <h3>📈 <a href="https://github.com/yacci5513/Quant">Quant</a></h3>
       <p><strong>Korean stock auto-trading pipeline</strong></p>
       <p>KOSPI 200 monthly momentum + MA-100 market filter backtest. Live order placement via KIS API. Telegram alerts. GitHub Actions auto-deploy to Lightsail.</p>
       <p><code>Python 3.12</code> <code>Docker</code> <code>Lightsail</code></p>
     </td>
+  </tr>
+  <tr>
     <td width="33%" valign="top">
       <h3>🎬 <a href="https://github.com/yacci5513/auto-quiz">auto-quiz</a></h3>
       <p><strong>Automated quiz-video generator</strong></p>
@@ -65,6 +59,7 @@ A few years into a backend engineering career, with hands-on time across REST AP
       <p>Crawls four IT outlets, summarizes via GPT-4o, emails the digest on schedule.</p>
       <p><code>Python</code> <code>GPT-4o</code> <code>BeautifulSoup</code></p>
     </td>
+    <td width="33%" valign="top"></td>
   </tr>
 </table>
 
